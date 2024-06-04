@@ -1,5 +1,5 @@
 let titles_type = ["Dataset", "Survey", "Review", "Overview"];
-let titles_model = ["Diffusion", "Depth", "synthesis", "eye tracking"];
+let titles_model = ["Diffusion", "Depth", "synthesis", "eye tracking", "eye-tracking"];
 let titles_method = ["Pre-train", "Pretrain", "Prompt", "Self-Supervised"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Meta", "Google", "Jia-Bin Huang", "Jiaolong Yang", "Zhejiang University", ""];
